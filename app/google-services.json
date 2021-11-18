@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "822601412686",
+    "firebase_url": "https://i170213-i170208-default-rtdb.firebaseio.com",
+    "project_id": "i170213-i170208",
+    "storage_bucket": "i170213-i170208.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822601412686:android:6eeebce04576ec8fc9131f",
+        "android_client_info": {
+          "package_name": "com.talat.i170213_i170208"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822601412686-er6m9ob6ed194k0prjrhfd0io5ne0lpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8QRDK6c5YzQBYswyVUGyJdPaPXRKnugQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822601412686-er6m9ob6ed194k0prjrhfd0io5ne0lpg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

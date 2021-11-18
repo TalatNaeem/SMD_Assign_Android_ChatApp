@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".Screen4">
+
+<!--        <ImageView-->
+<!--            android:id="@+id/edit_logo"-->
+<!--            android:layout_width="40dp"-->
+<!--            android:layout_height="39dp"-->
+<!--            android:layout_marginLeft="20dp"-->
+<!--            android:layout_marginTop="30dp"-->
+<!--            android:src="@drawable/edit_icon"-->
+<!--            app:layout_constraintLeft_toLeftOf="parent"-->
+<!--            app:layout_constraintTop_toTopOf="parent" />-->
+
+<!--        <TextView-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            app:layout_constraintLeft_toRightOf="@id/edit_logo"-->
+<!--            android:layout_marginTop="35dp"-->
+<!--            android:layout_marginStart="100dp"-->
+<!--            android:text="1 new message"-->
+<!--            android:textColor="@color/white"-->
+<!--            app:layout_constraintTop_toTopOf="parent" />-->
+
+<!--        <ImageView-->
+<!--            android:id="@+id/search_logo"-->
+<!--            android:layout_width="40dp"-->
+<!--            android:layout_height="39dp"-->
+<!--            android:layout_marginTop="30dp"-->
+<!--            android:layout_marginEnd="20dp"-->
+<!--            android:src="@drawable/search_icon"-->
+<!--            app:layout_constraintRight_toRightOf="parent"-->
+<!--            app:layout_constraintTop_toTopOf="parent" />-->
+
+<!--        <androidx.recyclerview.widget.RecyclerView-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginTop="50dp"-->
+<!--            android:id="@+id/chat_list"-->
+<!--            app:layout_constraintTop_toBottomOf="@id/edit_logo"/>-->
+
+<!--        <ImageView-->
+<!--            android:id="@+id/phone_icon"-->
+<!--            android:layout_width="40dp"-->
+<!--            android:layout_height="38dp"-->
+<!--            android:layout_marginStart="30dp"-->
+<!--            android:layout_marginTop="30dp"-->
+<!--            android:src="@drawable/phone_icon"-->
+<!--            app:layout_constraintLeft_toLeftOf="parent"-->
+<!--            app:layout_constraintTop_toBottomOf="@id/chat_list" />-->
+
+<!--        <ImageView-->
+<!--            android:id="@+id/cam_icon"-->
+<!--            android:layout_width="40dp"-->
+<!--            android:layout_height="38dp"-->
+<!--            android:layout_marginStart="60dp"-->
+<!--            android:layout_marginTop="30dp"-->
+<!--            android:src="@drawable/cam_icon"-->
+<!--            app:layout_constraintLeft_toRightOf="@id/phone_icon"-->
+<!--            app:layout_constraintTop_toBottomOf="@id/chat_list" />-->
+
+<!--        <ImageView-->
+<!--            android:id="@+id/chat_icon"-->
+<!--            android:layout_width="40dp"-->
+<!--            android:layout_height="38dp"-->
+<!--            android:layout_marginStart="60dp"-->
+<!--            android:layout_marginTop="30dp"-->
+<!--            android:src="@drawable/chat_blue_icon"-->
+<!--            app:layout_constraintLeft_toRightOf="@id/cam_icon"-->
+<!--            app:layout_constraintTop_toBottomOf="@id/chat_list" />-->
+
+<!--        <ImageView-->
+<!--            android:id="@+id/people_icon"-->
+<!--            android:layout_width="40dp"-->
+<!--            android:layout_height="38dp"-->
+<!--            android:layout_marginStart="60dp"-->
+<!--            android:layout_marginTop="30dp"-->
+<!--            android:src="@drawable/people_icon"-->
+<!--            app:layout_constraintLeft_toRightOf="@id/chat_icon"-->
+<!--            app:layout_constraintTop_toBottomOf="@id/chat_list" />-->
+
+<!--        <ImageView-->
+<!--            android:id="@+id/endline"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:src="@drawable/end_line"-->
+<!--            android:layout_marginTop="20dp"-->
+<!--            app:layout_constraintTop_toBottomOf="@id/cam_icon"-->
+<!--            app:layout_constraintLeft_toLeftOf="parent"-->
+<!--            app:layout_constraintRight_toRightOf="parent" />-->
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.core.widget.NestedScrollView>

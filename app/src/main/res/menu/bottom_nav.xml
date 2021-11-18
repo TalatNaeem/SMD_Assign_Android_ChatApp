@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/chat"
+        android:icon="@drawable/ic_baseline_chat_bubble_24"
+        android:title="Chat"/>
+
+    <item
+        android:id="@+id/camera"
+        android:icon="@drawable/ic_baseline_photo_camera_24"
+        android:title="Camera"/>
+
+    <item
+        android:id="@+id/phone"
+        android:icon="@drawable/ic_baseline_phone_24"
+        android:title="Phone"/>
+
+    <item
+        android:id="@+id/contacts"
+        android:icon="@drawable/ic_baseline_group_24"
+        android:title="Contacts"/>
+
+</menu>
