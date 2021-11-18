@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    android:padding="20dp"
+    tools:context=".PhoneAuth1">
+
+    <EditText
+        android:layout_width="match_parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="100dp"
+        android:id="@+id/number"
+        android:hint="Enter Phone Number..."
+        android:textColor="@color/white"
+        android:inputType="phone"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/enter"
+        android:layout_marginTop="20dp"
+        android:text="Enter"
+        app:layout_constraintTop_toBottomOf="@id/number"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
